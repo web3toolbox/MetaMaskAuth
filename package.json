@@ -1,0 +1,17 @@
+{
+  "name": "metamaskauth",
+  "version": "1.0.0",
+  "description": "a plug and play metamask auth component ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adonesky1",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "react": "^17.0.2",
+    "styled": "^1.0.0",
+    "web3": "^1.3.6"
+  }
+}
