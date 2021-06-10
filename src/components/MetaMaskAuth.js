@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import styled from "styled-components";
 import Web3 from "web3";
 import detectEthereumProvider from "@metamask/detect-provider";
-import ConnectionWalkThroughModal from "./ConnectionWalkThrough";
+import ConnectionWalkThroughModal from "./ConnectionWalkThroughModal";
 import SubscriptionModal from "./SubscriptionModal";
 import WelcomeModal from "./WelcomeModal";
 import DownloadMMModal from "./DownloadMMModal";
